@@ -1,0 +1,19 @@
+Otras anim:
+Saltar
+Deslizar
+Secarse (?)
+-------------
+Cajas Sorpresas
+-Lanzar Pelota
+---si le paga al enemigo, se agacha y lo agarra
+-Lanzar Pajaro
+---Si lo ve, le empiza a ladrar caminando
+-Un gato de juguete
+--- Se para enfrende de el y le ladra por un instante
+-Bowl de agua
+--- Si lo pisa, no puedes correr por cierto tiempo
+-Croquetas
+--Le da un boost
+-Huesito
+--Empuja y alienta al enemigo si el player lo toca y el player
+es inmune a todos los efectos y va mas rapido
